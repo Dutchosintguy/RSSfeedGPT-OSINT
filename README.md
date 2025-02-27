@@ -35,7 +35,7 @@ Update your OpenAI API key in `rss_summarizer.py` by replacing `"YOUR_OPENAI_API
 Run the script:
 
 ```bash
-python rss_summarizer.py
+python3 RSSfeedGPT-OSINT.py
 ```
 
 The script will:
