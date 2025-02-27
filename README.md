@@ -66,12 +66,7 @@ def find_similar_articles(articles, threshold=0.85):
 
 Increasing the value (e.g., `0.90`) makes the merging stricter, while decreasing it (e.g., `0.80`) makes it more lenient.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contributions
 Pull requests are welcome! If you find a bug or want to improve performance, feel free to contribute.
-
-## Contact
-For any inquiries or issues, open an issue on [GitHub](https://github.com/yourusername/rss-feed-summarizer/issues).
 
