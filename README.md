@@ -22,8 +22,8 @@ Clone the repository and install dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rss-feed-summarizer.git
-cd rss-feed-summarizer
+git clone [https://github.com/Dutchosintguy/RSSfeedGPT-OSINT.git]
+cd RSSfeedGPT-OSINT
 
 # Install dependencies
 pip install -r requirements.txt
